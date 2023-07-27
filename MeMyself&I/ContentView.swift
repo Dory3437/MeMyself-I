@@ -3,7 +3,7 @@
 //  MeMyself&I
 //
 //  Created by scholar on 7/27/23.
-//
+//something tiny
 
 import SwiftUI
 struct ContentView: View {
